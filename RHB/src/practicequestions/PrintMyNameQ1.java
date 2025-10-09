@@ -1,0 +1,8 @@
+package practicequestions;
+
+public class PrintMyNameQ1 {
+
+	public static void main(String[] args) {
+		System.out.println("My name is prahalla");
+	}
+}
