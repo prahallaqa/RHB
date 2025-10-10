@@ -7,7 +7,7 @@ public class DateTime {
 		Date d= new Date();
 		System.out.println(d.getTime());
 		
-		String d2= d.toString();
+		String d2= d.toString();//hhhh
 		System.out.println(d2);
 		 
 		String day = d2.substring(8, 10);        // positions 8 and 9

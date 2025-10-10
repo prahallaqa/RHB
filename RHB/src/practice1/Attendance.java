@@ -28,5 +28,4 @@ public class Attendance {
 		System.out.println("Effective Hours Till now is " + effective);
 		sc.close();
 	}
-
 }
