@@ -3,12 +3,11 @@ package practice1;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
-
-public class Attendance {
-
+  
+public class Attendance { 
 	public static void main(String[] args) {
 		System.out.println("Enter the Last Login Time in HHMM Format");
-		Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in); 
 		String lastlogin = sc.nextLine();
 		DateTimeFormatter formatter = DateTimeFormatter.ofPattern("HHmm");
 		LocalTime time = LocalTime.parse(lastlogin, formatter);
@@ -28,4 +27,5 @@ public class Attendance {
 		System.out.println("Effective Hours Till now is " + effective);
 		sc.close();
 	}
-}
+} 
+ 

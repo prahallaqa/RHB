@@ -17,7 +17,7 @@ public class MathClassMethodsQ14 {
 		System.out.println("abs " + java.lang.Math.abs(-10.22));
 		System.out.println("sqrt "+java.lang.Math.sqrt(100));
 		System.out.println("min "+java.lang.Math.min(10, 100));
-		System.out.println("min "+java.lang.Math.min(1000l, 200L));
+		System.out.println("min "+java.lang.Math.min(1000l, 200L)); 
 		System.out.println("max "+java.lang.Math.max(100, 3000));
 		System.out.println("max "+java.lang.Math.max(1000l, 200l));
 		System.out.println("pow "+java.lang.Math.pow(2, 3));
