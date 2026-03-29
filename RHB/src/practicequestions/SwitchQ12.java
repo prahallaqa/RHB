@@ -22,5 +22,5 @@ public class SwitchQ12 {
         default:System.out.println("Invalid day number");
         }
 	}
-
+ 
 }

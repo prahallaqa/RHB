@@ -20,3 +20,4 @@ public class UpdateLocalGlobalVaiablesQ21 {
 		System.out.println("instance updated Variable String ... "+a1.c);
 	}
 }
+ 

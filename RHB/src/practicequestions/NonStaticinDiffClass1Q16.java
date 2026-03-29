@@ -11,3 +11,4 @@ public class NonStaticinDiffClass1Q16 {
 		
 	}
 }
+ 

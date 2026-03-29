@@ -15,7 +15,7 @@ public class NestedIfQ11copy {
 			{
 				System.out.println("Required amount u is higher than the available balance");
 			}
-
+ 
 		}
 		else
 		{

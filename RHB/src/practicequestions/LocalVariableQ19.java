@@ -7,7 +7,7 @@ public class LocalVariableQ19 {
 		String name="prahalla";
 		System.out.println("name is "+name);
 		System.out.println("age is "+ age);
-		
+		 
 
 	}
 

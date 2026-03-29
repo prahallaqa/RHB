@@ -15,5 +15,5 @@ public class Add3NumbersIntDecimalQ8 {
 		double d=a+b+c;
 		System.out.println(d);
 	}
-}
+} 
  
